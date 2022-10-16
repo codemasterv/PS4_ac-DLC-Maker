@@ -5,7 +5,7 @@ Makes -ac DLC fPKG's that have extra data. Can also make unlockers if an empty d
 
 1. Choose your path for your dumped DLC folder
 
-2. Go to https://serialstation.com/games/ and find your DLC Content ID for your game on the left side
+2. Go to https://serialstation.com/games/ and find your DLC Content ID for your game on the right side
 
 3. Add any name you want for your DLC file 
 
