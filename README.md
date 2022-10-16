@@ -21,4 +21,4 @@ Install and Profit
 
 SIDE NOTE:
 
-If an empty directory is used with no data in it, the program will create a DLC unlocker file instead.
+If an empty directory is used with no data in it, the program will create a DLC unlocker file instead if the unlocker check box is checked.
